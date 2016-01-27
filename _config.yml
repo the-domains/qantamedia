@@ -1,7 +1,7 @@
 name: qantamedia
 favicon: null
-layout_spectrum: 0.8784669402521104
-typography_spectrum: 0.3701263091061264
+layout_spectrum: 1
+typography_spectrum: 0.25742
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.39631574926897883
+    - '#10b798'
+    - '#ffffff'
+    - '#18d39b'
+    - '#1ce39d'
+    - '#c8cacb'
+  brandStrength: 0.4375
   lightness: 0.7163063252810389
   saturation: 0.9386060764081776
   rhythmicContrast: 0.21253702859394252
