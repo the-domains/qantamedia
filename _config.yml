@@ -1,0 +1,28 @@
+name: qantamedia
+favicon: null
+layout_spectrum: 0.8784669402521104
+typography_spectrum: 0.3701263091061264
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.39631574926897883
+  lightness: 0.7163063252810389
+  saturation: 0.9386060764081776
+  rhythmicContrast: 0.21253702859394252
+purpose: []
